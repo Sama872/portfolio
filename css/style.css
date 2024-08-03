@@ -72,13 +72,13 @@ ul{
 .header-info h1{
     text-transform: uppercase;
     color: #FF305B;
-    font-size: 60px;
+    font-size: 70px;
     font-weight: 700;
 }
 .header-info h4{
     color: #fff;
     font-weight: 300;
-    font-size: 22px;
+    font-size: 24px;
 }
 .header-info h4::after{
     content: " |";
@@ -279,11 +279,11 @@ button:hover{
     font-size: 16px;
     padding: 10px;
     text-transform: uppercase;
-    /* font-weight: 500; */
+    font-weight: 500;
 }
 .services-item p{
     color: #555555;
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 400;
 }
 .services-item:hover{
@@ -411,7 +411,7 @@ i{
 }
 .blog-text{
     color: #555555;
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 400;
 }
 .read-more{
@@ -419,7 +419,7 @@ i{
     padding: 7px 0;
     font-family: "Roboto", sans-serif;
     font-weight: 400;
-    font-size: 14px;
+    font-size: 16px;
 
 }
 .read-more i{
@@ -548,7 +548,7 @@ textarea{
 }
 .footer-text p{
     color: #fff;
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 400;
 }
 .footer-text span{
